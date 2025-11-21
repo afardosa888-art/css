@@ -1,0 +1,9 @@
+body {
+  background-color: blueviolet;
+  background-image: url(https://img.freepik.com/premium-photo/beautiful-sunset-sky-clouds-background_1026019-9993.jpg);
+
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  background-attachment: fixed;
+}
